@@ -1,3 +1,5 @@
+
+
 document.addEventListener('DOMContentLoaded', () => {
     const canvasEle = document.getElementById("game-canvas");
     canvasEle.width = 500;
